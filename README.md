@@ -28,6 +28,7 @@ The following key modules/pages are automated:
   npm install
 ```
 * Run npx playwright install to install browsers required by Playwright
+
   ```bash
   npx playwright install
 ```
