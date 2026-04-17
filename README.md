@@ -24,10 +24,8 @@ The following key modules/pages are automated:
 * Clone this project from GitHub
 * Open the project folder in VS Code or your preferred IDE
 * Run npm install to install all project dependencies
-  ```bash
-  npm install
- ```
 * Run npx playwright install to install browsers required by Playwright
+
 ### Run the Automation Script by the following command:
 * Playwright will open the browser and start automating.
   
