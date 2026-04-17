@@ -26,11 +26,11 @@ The following key modules/pages are automated:
 * Run npm install to install all project dependencies
   ```bash
   npm install
-```
+ ```
 * Run npx playwright install to install browsers required by Playwright
  ```bash
   npx playwright install
-```
+ ```
 ### Run the Automation Script by the following command:
 * Playwright will open the browser and start automating.
   
